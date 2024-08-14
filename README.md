@@ -1,5 +1,9 @@
+# Disclaimer
+This project was created for educational purposes. It is freely accessible to everyone. No liability is accepted for any damage resulting from its use.
+
 # Python
 I just wanted to practice python. Mostly it is filled with small programs to check what I could do with python and try out new stuff I am interested in.
+Furthermore it should be a knowledge database for me (or anybody else).
 
 # Folders
 scr --> Source Code of different programs
