@@ -3,14 +3,15 @@
 
 # Overview collections in Python:
 # List is a collection which is ordered and changeable. Allows duplicate members.
-# Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
-# Set is a collection which is unordered, unchangeable*, and unindexed. No duplicate members.
-# Dictionary is a collection which is ordered** and changeable. No duplicate members.
+    # Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
+    # Set is a collection which is unordered, unchangeable*, and unindexed. No duplicate members.
+    # Dictionary is a collection which is ordered** and changeable. No duplicate members.
 
-print("\n")
-# objects of the class list
-# used to store multiple items
-# items are ordered, changeable and allow duplicate values
+# changeable means, can delete/ add/ change items after creation!!!
+# a list can contain different data types
+
+print("\nPython Lists")
+
 MyList = ["a", "b", "c"]
 
 print("Print the whole list: ", MyList)

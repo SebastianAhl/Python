@@ -1,6 +1,7 @@
 "How to loop collections"
 # a lot of examples:
 # https://www.w3schools.com/python/python_lists_loop.asp
+# https://www.w3schools.com/python/python_tuples_loop.asp
 
 # looping every item (same for all collections)
 MyList = ["abc", "123", "def", "456"]
@@ -9,7 +10,7 @@ for X in MyList:
     print(X)
 
 
-# indexed looping
+# indexed looping lists, tuples
 print("\nWith range: ")
 for I in range(len(MyList)):
     print(MyList[I])
