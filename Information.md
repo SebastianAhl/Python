@@ -17,5 +17,7 @@ Definition
 > objects or classes.
 
 For example if three classes and three objects (car1, boat1, plane1) have a method with the same name, we can use it in a loop:
-'for x in (car1, boat1, plane1):
-  x.move()'
+'''
+for x in (car1, boat1, plane1):
+  x.move()
+'''
