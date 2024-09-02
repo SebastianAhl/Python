@@ -68,3 +68,19 @@ def myfunc1():
 
 print(myfunc1())
 ```
+
+# PIP - Python Package Manager
+[Source PIP](https://www.w3schools.com/python/python_pip.asp)
+
+## Check installation
+`pip --version`
+
+## List installed packages
+`pip list`
+
+## (Un)Install package
+`pip install <PACKAGENAME>`
+`pip uninstall <PACKAGENAME>`
+
+## Package Repository
+[Source PIP Repo](https://pypi.org/)
