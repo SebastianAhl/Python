@@ -5,8 +5,8 @@ This project was created for educational purposes. It is freely accessible to ev
 https://www.w3schools.com/python/
 
 # Python
-I just wanted to practice python. Mostly it is filled with small programs to check what I could do with python and try out new stuff I am interested in.
-Furthermore it should be a knowledge database for me (or anybody else).
+In the past I programmed a lot with python. Unfortunately it is a while ago and I forgot a lot or lets call it "it is buried in my mind"... So I just wanted to create a reference for myself and for whoever wants to use it too. 
+Mostly it is filled with small programs to help myself to remember :-) So this repo is a knowledge database for me (or anybody else).
 
 # Folders
 scr --> Source Code of different programs
