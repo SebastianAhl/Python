@@ -1,0 +1,3 @@
+Hello, i am a textfile to practice file 
+handling in
+Python.
