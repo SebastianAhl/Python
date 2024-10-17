@@ -1,12 +1,15 @@
 # Sources
 ## w3schools
-Python course: https://www.w3schools.com/python/
+(Python course:)[https://www.w3schools.com/python/]
 - Nicely structured
 - Easy to follow
 - For beginners as well as experienced developers
 - Progress can be saved with a free account
 - Offers paid exams
 
+## Color Codes
+(HEX Color Code)[https://www.w3schools.com/colors/colors_hexadecimal.asp]
+(HTML Color Code)[https://www.w3schools.com/colors/colors_names.asp]
 
 # Terms and definitions
 ## Modules
