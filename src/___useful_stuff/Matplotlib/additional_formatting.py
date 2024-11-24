@@ -22,7 +22,7 @@ plt.plot(ycoor2)
 plt.show()
 
 
-# achsis labels, plot title + position, fonts,
+# achsis labels, plot title + position, fonts, grid lines
 plt.plot(xcoor, ycoor)
 
 font1 = {'family':'serif','color':'blue','size':20}
@@ -32,5 +32,9 @@ plt.xlabel("x-achsis-label", fontdict = font2)
 plt.ylabel("y-achsis-label", fontdict = font2)
 
 plt.title("Plot Title", fontdict = font1, loc = "left")
+
+# axis = empty --> both grid lines
+# linestyles and colors --> checkout markers_lines_colors.py
+plt.grid(axis = "x", linestyle = ":", color = "blue")
 
 plt.show()
